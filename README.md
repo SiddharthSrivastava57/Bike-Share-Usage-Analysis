@@ -68,7 +68,7 @@ The dataset contains hourly data on bike rentals with the following key features
 ```bash
 # Clone the repo
 git clone https://github.com/SiddharthSrivastava57/Bike-Share-Usage-Analysis
-cd Bike_Share_Usage_Analysis
+cd cd Bike-Share-Usage-Analysis
 
 # Create and activate virtual environment (optional)
 python -m venv venv
