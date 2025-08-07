@@ -31,10 +31,10 @@ Thumbs.db
 .vscode/
 
 # Reports and plots
-# *.pdf
-# *.png
-# images/
-# reports/
+*.pdf
+*.png
+images/
+reports/
 
 # Logs
 *.log
